@@ -1,5 +1,15 @@
 <h1 align="center">Pinterest Stealth Automation Bot</h1>
 
+## Project Overview:
+This project is a stealth Pinterest automation bot designed to simplify and scale your pinning workflows—everything from posting, scheduling, to engagement, all with an anti-detection layer baked in. Inspired by outdated tools like NinjaPinner and modernized using antidetect browsers like AdsPower or GoLogin, the tool aims to automate content generation and scheduling while remaining virtually undetectable.
+
+It’s made for marketers, and affiliate pros who need Pinterest running in the background 24/7—without risking bans, shadowbans, or throttled accounts. Whether you’re promoting blog traffic or niche products, this bot mimics real user behavior and handles multiple accounts in parallel.
+
+## Core Features:
+- **Stealth-Grade Anonymity** – Runs inside antidetect browsers like AdsPower/GoLogin with unique fingerprints and proxies for each account.
+- **Human-Like Behavior Engine** – Randomizes scrolling, clicking, pin creation, follow actions, and timing to avoid behavioral flags.
+- **Scalable Automation** – Built to handle hundreds of accounts concurrently with action queues, scheduling, and retry logic.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,16 +72,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project is a stealth Pinterest automation bot designed to simplify and scale your pinning workflows—everything from posting, scheduling, to engagement, all with an anti-detection layer baked in. Inspired by outdated tools like NinjaPinner and modernized using antidetect browsers like AdsPower or GoLogin, the tool aims to automate content generation and scheduling while remaining virtually undetectable.
-
-It’s made for marketers, and affiliate pros who need Pinterest running in the background 24/7—without risking bans, shadowbans, or throttled accounts. Whether you’re promoting blog traffic or niche products, this bot mimics real user behavior and handles multiple accounts in parallel.
-
-## Core Strengths:
-- **Stealth-Grade Anonymity** – Runs inside antidetect browsers like AdsPower/GoLogin with unique fingerprints and proxies for each account.
-- **Human-Like Behavior Engine** – Randomizes scrolling, clicking, pin creation, follow actions, and timing to avoid behavioral flags.
-- **Scalable Automation** – Built to handle hundreds of accounts concurrently with action queues, scheduling, and retry logic.
 
 ## Features List:
 | Feature                    | Description                                                                   |
